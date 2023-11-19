@@ -1,16 +1,17 @@
-## 구현 동작 화면 
+# 구현 동작 영상 
 https://youtu.be/0_yL9sjMN5A
 
-## HOME 화면
+# 페이지 별 화면 캡쳐
+## HOME
 ![유트브 클론 코딩 HOME 화면](https://github.com/dlwnsgur9242/youtube_clone_Hamtor2/assets/90494150/ee6c4db6-98e8-42ff-b4d2-65c3582964a8)
 
-## CHANNEL 화면
+## CHANNEL
 ![유트브 클론 코딩 CHANNEL 화면](https://github.com/dlwnsgur9242/youtube_clone_Hamtor2/assets/90494150/83d2a174-83b5-4bde-8465-a8f7f9a17255)
 
-## VIDEO 화면
+## VIDEO
 ![유트브 클론 코딩 VIDEO 화면](https://github.com/dlwnsgur9242/youtube_clone_Hamtor2/assets/90494150/e237fcfb-00b8-4334-81ef-b40815b126fb)
 
-## 피그마 활용 화면
+## 피그마 활용
 ![유트브 클론 코딩 피그마 활용](https://github.com/dlwnsgur9242/youtube_clone_Hamtor2/assets/90494150/fb7b79c1-c3b5-4fcf-b8bc-797c32563b67)
 
 ## Visual Studio Code 예시
